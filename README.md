@@ -1,7 +1,7 @@
-## 👋 Olá, eu sou o Cheatzera
+## 👋 Opa, eu sou o Cheatzera!
 
 💻 Otimização de sistemas e performance para jogos  
-⚡ Criação de scripts em PowerShell e automações úteis  
+⚡ Criação de scripts em PowerShell e automações úteis etc.
 🎮 Foco em jogos competitivos e redução de latência
 
 ---
