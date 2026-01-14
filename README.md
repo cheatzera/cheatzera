@@ -14,6 +14,10 @@ Game-focused settings, especially for FPS
 
 📌 Main Projects
 
+🌐 Live Projects
+
+⭐ CheatOptimizer Site — Official PC optimization site for gamers: cheatzera.github.io
+
 ⭐ CheatOptimizer — PowerShell scripts for system optimization
 
 📫 Find me here
