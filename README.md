@@ -1,23 +1,22 @@
-## 👋 Opa, eu sou o Cheatzera!
+👋 Hey, I’m Cheatzera!
 
-💻 Otimização de sistemas e performance para jogos  
-⚡ Criação de scripts em PowerShell e automações úteis etc.
-🎮 Foco em jogos competitivos e redução de latência
+💻 System optimization and performance tuning for gaming
+⚡ Creating PowerShell scripts and useful automations
+🎮 Focused on competitive games and latency reduction
 
----
+🛠️ What I do
 
-## 🛠️ O que eu faço
-- Scripts para otimização de Windows
-- Ferramentas para análise de desempenho
-- Configurações focadas em jogos FPS
+Windows optimization scripts
 
----
+Performance analysis tools
 
-## 📌 Projetos principais
-⭐ **CheatOptimizer** — Scripts PowerShell para otimização de sistema
+Game-focused settings, especially for FPS
 
----
+📌 Main Projects
 
-## 📫 Me encontre por aqui
-🔗 GitHub: https://github.com/cheatzera  
+⭐ CheatOptimizer — PowerShell scripts for system optimization
+
+📫 Find me here
+
+🔗 GitHub: https://github.com/cheatzera
 
