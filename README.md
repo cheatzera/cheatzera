@@ -20,7 +20,7 @@ Game-focused settings, especially for FPS
 
 ⭐ CheatOptimizer — PowerShell scripts for system optimization
 
-⭐ Ticket-Bot -A complete bot for technical support, customer service, and automated sales within Discord.
+⭐ Ticket-Bot — A complete bot for technical support, customer service, and automated sales within Discord.
 
 📫 Find me here
 
