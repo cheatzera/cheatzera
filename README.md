@@ -19,6 +19,7 @@ Game-focused settings, especially for FPS
 ⭐ CheatOptimizer Site — Official PC optimization site for gamers
 
 ⭐ CheatOptimizer — PowerShell scripts for system optimization
+⭐ Ticket-Bot -A complete bot for technical support, customer service, and automated sales within Discord.
 
 📫 Find me here
 
