@@ -26,7 +26,6 @@ Official PC optimization site for gamers
 PowerShell scripts for deep Windows performance tuning
 
 ⭐ **CheatOptimizer V2 (Site)** 
-Official PC optimization site for gamers
 
 ⭐ **Ticket-Bot**  
 A complete Discord bot for technical support, customer service, and automated sales  
